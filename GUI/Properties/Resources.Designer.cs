@@ -193,9 +193,39 @@ namespace GUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap doi_tac {
+            get {
+                object obj = ResourceManager.GetObject("doi_tac", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap GetArticleImage {
             get {
                 object obj = ResourceManager.GetObject("GetArticleImage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HoiDap {
+            get {
+                object obj = ResourceManager.GetObject("HoiDap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HoiDap1 {
+            get {
+                object obj = ResourceManager.GetObject("HoiDap1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -226,6 +256,36 @@ namespace GUI.Properties {
         internal static System.Drawing.Bitmap icon_contract {
             get {
                 object obj = ResourceManager.GetObject("icon-contract", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconDienThoai {
+            get {
+                object obj = ResourceManager.GetObject("iconDienThoai", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IconGioiThieu {
+            get {
+                object obj = ResourceManager.GetObject("IconGioiThieu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconlogin {
+            get {
+                object obj = ResourceManager.GetObject("iconlogin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,6 +353,16 @@ namespace GUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap NhaPhatTriển {
+            get {
+                object obj = ResourceManager.GetObject("NhaPhatTriển", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Pie_Diagram {
             get {
                 object obj = ResourceManager.GetObject("Pie Diagram", resourceCulture);
@@ -336,6 +406,16 @@ namespace GUI.Properties {
         internal static System.Drawing.Bitmap Shopping_cart {
             get {
                 object obj = ResourceManager.GetObject("Shopping cart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Thoát {
+            get {
+                object obj = ResourceManager.GetObject("Thoát", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

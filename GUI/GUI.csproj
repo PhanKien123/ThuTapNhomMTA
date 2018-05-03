@@ -91,6 +91,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -130,21 +131,29 @@
     <Content Include="Resources\Class.png" />
     <Content Include="Resources\close_blue.png" />
     <Content Include="Resources\Delete.png" />
+    <None Include="Resources\doi_tac.png" />
     <Content Include="Resources\GetArticleImage.jpg" />
+    <None Include="Resources\HoiDap.png" />
+    <None Include="Resources\HoiDap1.png" />
     <Content Include="Resources\House.png" />
     <Content Include="Resources\icon-bg-member.png" />
     <Content Include="Resources\icon-contract.png" />
+    <None Include="Resources\IconGioiThieu.png" />
+    <None Include="Resources\iconlogin.png" />
+    <None Include="Resources\iconDienThoai.png" />
     <Content Include="Resources\invoice-manager-icon.png" />
     <Content Include="Resources\iPhoto.png" />
     <Content Include="Resources\kho-hang.png" />
     <Content Include="Resources\mankey.png" />
     <Content Include="Resources\NhanVien.png" />
+    <None Include="Resources\NhaPhatTriển.png" />
     <Content Include="Resources\Nhà Sản Xuất.png" />
     <Content Include="Resources\Pie Diagram.png" />
     <Content Include="Resources\Product Key Finder.png" />
     <Content Include="Resources\SanPham.png" />
     <Content Include="Resources\save-as.png" />
     <Content Include="Resources\Shopping cart.png" />
+    <None Include="Resources\Thoát.png" />
     <Content Include="Resources\TimKiem.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
